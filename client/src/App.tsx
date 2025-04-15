@@ -8,9 +8,9 @@ import Feed from "./components/Feed";
 function App() {
     return (
         <Router>
-            <div className="min-h-screen bg-gray-50">
+            <div className="min-h-screen bg-gray-50 px-4 sm:px-6 md:px-8 lg:px-12 xl:px-24 py-4 sm:py-6 overflow-hidden h-[80vh]">
                 <Navbar />
-                <main className="py-4">
+                <main>
                     <Routes>
                         <Route path="/" element={<TopUsers />} />
                         <Route path="/trending" element={<TrendingPosts />} />
