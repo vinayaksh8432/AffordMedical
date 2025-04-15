@@ -30,15 +30,18 @@ Social Media Analytics is a web application that allows users to view trending p
 
 ### Feed
 
-![Feed view of the application showing recent posts](feed_screenshot.png)
+![Screenshot 2025-04-15 141924](https://github.com/user-attachments/assets/cbd076ad-f0a0-44dd-a805-991fe18bc90b)
+
 
 ### Trending Posts
 
-![Trending posts section showing popular content](trending_screenshot.png)
+![Screenshot 2025-04-15 141912](https://github.com/user-attachments/assets/47cb7204-bf21-437c-b870-74f37f4faad4)
+
 
 ### Top Users
 
-![Top users section showing most active community members](top_users_screenshot.png)
+![Screenshot 2025-04-15 141852](https://github.com/user-attachments/assets/c79ec003-8136-4483-8920-d911c547404a)
+
 
 ## Getting Started
 
